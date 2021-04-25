@@ -10,7 +10,7 @@
   "packs": [],
   "url": "https://github.com/Jensenator/maleficarum-ui",
   "manifest": "https://raw.githubusercontent.com/Jensenator/maleficarum-ui/main/module.json",
-  "download": "https://github.com/Jensenator/maleficarum-ui/releases/download/0.1/maleficarum-ui-0.1.zip",
+  "download": "https://github.com/Jensenator/maleficarum-ui.zip",
   "minimumCoreVersion": "0.6.6",
   "compatibleCoreVersion": "0.7.7"
 }
