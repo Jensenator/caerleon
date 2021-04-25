@@ -1,2 +1,2 @@
 # maleficarum-ui
-My updated fantasy-flavored UI for FVTT
+My fantasy-flavored UI for FVTT.
